@@ -1,0 +1,53 @@
+h4{
+    color: black;
+    font: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    color: black;
+    font: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.stage-direction{
+    background-color: brown;
+}
+.stage-direction:hover{
+     background-color: green ;
+     color: indigo;
+}
+.Merchant{
+    color: lawngreen;
+}
+.SYRACUSE{
+    color: crimson;
+}
+.EPHESUS{
+    color: darkviolet;
+}
+div{margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 50px;
+    margin-left: 40px;
+    padding: 60px;
+}
+table{
+    border: solid 4px rebeccapurple;
+    border-collapse: separate;
+}
+th,td{
+    border:dashed 2px blue;
+    text-align:center;
+}
+tr:nth-child(odd){
+    background-color: cadetblue;
+}
+.name:hover{
+    color:darkgoldenrod;
+    border: solid 3px;
+}
+img{
+    margin-left: 30px;
+    border-radius: 20px;
+    width: 300px;
+    height:300px;
+}
